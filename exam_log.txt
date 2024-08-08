@@ -1,0 +1,185 @@
+    1  pkg install cmatrix
+    2  cmatrix
+    3  proot-distro install ubuntu
+    4  pkg-distro install ubuntu
+    5  pkg install proot-distro
+    6  proot-distro install ubuntu
+    7  proot-distro login ubuntu
+    8  exit
+    9  pkg install gh
+   10  pkg install github
+   11  pkg install git
+   12  clear
+   13  exit
+   14  pkg intall proot
+   15  termux-chroot
+   16  exut
+   17  exit
+   18  git clone https://github.com/jen-jec/230548689-CALAYON.git
+   19  git clone https://github.com/jen-jec/230548689-CALAYON
+   20  pkg install git
+   21  git clone https://github.com/jen-jec/230548689-CALAYON.git
+   22  cd 230548689-CALAYON
+   23  pkg install gh
+   24  apt update && apt upgrade
+   25  git clone https://github.com/jen-jec/230548689-CALAYON
+   26  ls
+   27  pkg install openssh
+   28  exit
+   29  pkg install nyancat
+   30  nyancat
+   31  pkg install gut
+   32  pkg install git
+   33  nyancat
+   34  pkg install git
+   35  git init
+   36  nyancat
+   37  cd /$PREFIX/share/apache2/default-site/htdocs
+   38  mkdir yawa
+   39  cd yawa
+   40  cd /$PREFIX/share/apache2/default-site/htdocs
+   41  clear
+   42  ln -s /path/to/target mylink
+   43  cd /
+   44  ln -s yawa
+   45  ln -s /path/to/target yawa
+   46  ln -s /yawa
+   47  clear
+   48  apt update && apt upgrade
+   49  pkg install openjdk-17
+   50  pkg intall jdk
+   51  pkg install openjdk
+   52  java -version
+   53  touch hi.java
+   54  touch HelloWorld.java
+   55  git clone https://github.com/username/repository_name.git
+   56  git clone https://github.com/230548689-CALAYON/230548689-CALAYON.git
+   57  termux-setup-storage
+   58  mount -o remount,rw /
+   59  git clone https://github.com/230548689-CALAYON/230548689-CALAYON.git
+   60  termux-setup-storage
+   61  y
+   62  termux-setup-storage
+   63  t
+   64  termux-setup-storage
+   65  mount -o remount,rw /
+   66  whoami
+   67  ifconfig
+   68  git clone https://github.com/230548689-CALAYON/230548689-CALAYON
+   69  termux-chroot
+   70  pkg intall git
+   71  clear
+   72  pkg install git
+   73  pkg install gh
+   74  git clone https://github.com/230548689-CALAYON/230548689-CALAYON
+   75  git clone https://github.com/230548689-CALAYON/230548689-CALAYON.git
+   76  sudo fsck -n -f
+   77  pkg install tsu
+   78  sudo fsck -n -f
+   79  no
+   80  clear
+   81  git clone https://github.com/230548689-CALAYON/230548689-CALAYON
+   82  git clone https://github.com/230548689-CALAYON/230548689-CALAYON.git
+   83  pkg install git
+   84  sudo apt update
+   85  git clone http://githum.com/230548689-CALAYON/230548689-CALAYON
+   86  git clone http://github.com/jen-jec/230548689-CALAYON.git
+   87  git clone https://github.com/jen-jec/230548689-CALAYO
+   88  clear
+   89  git clone https://github.com/jen-jec/230548689-CALAYON
+   90  apt update && apt upgrade -y
+   91  pkg install openssh
+   92  sdh keygen
+   93  ssh keygen
+   94  sshd
+   95  scrcpy
+   96  whoami
+   97  ifconfig
+   98  iconfig
+   99  ipconfig
+  100  git clone https://github.com/jen-jec/230548689-CALAYON.git
+  101  git clone https://github.com/jen-jec/230548689-CALAYON
+  102  exit
+  103  ls
+  104  cd linux_practice
+  105  cd
+  106  touch linux_practice
+  107  cd yawa
+  108  ls
+  109  cd
+  110  cd linux_practice
+  111  cd yawa
+  112  ls
+  113  linux_practice
+  114  ls
+  115  touch linux_practice
+  116  ls
+  117  mv linux_practice
+  118  cd
+  119  cd 230548688-CALAYON
+  120  230548689-CALAYON
+  121  cd 230548689-CALAYON
+  122  touch linux_practice
+  123  ls
+  124  cd linux_practice
+  125  mv linux_practice
+  126  cp linux_practice 
+  127  cd 230548689-CALAYON/linux_practice
+  128  mkdir
+  129  touch linux_practice
+  130  nano linux_practice
+  131  ls
+  132  cd 'linux_practice'
+  133  cd linux_practice
+  134  ls
+  135  cd yawa
+  136  mkdir linux_practice
+  137  rm linux_directory
+  138  mkdir linux-practice
+  139  cd linux-practice
+  140  nano notes.txt
+  141  ls
+  142  head notes.txt
+  143  cd notex.txt
+  144  echo >> notes.txt
+  145  nano notes.txt
+  146  ls >> notes.txt
+  147  nano notes.txt
+  148  ls
+  149  tail notes.txt
+  150  head notes.txt
+  151  nano notes.txt
+  152  echo>> "This is a practical exam."
+  153  head notes.txt
+  154  tail notes.txt
+  155  echo "This is a practical exam." >>notes.txt
+  156  tail notes.txt
+  157  mkdir subdir
+  158  mv notes.txt subdir
+  159  ls
+  160  cd subdir practice_subdir
+  161  mv subdir practice_subdir
+  162  ls
+  163  df -h
+  164  ssh -v
+  165  php -v
+  166  git checkout -b
+  167  git checkout -b finalexam
+  168  git status
+  169  cat exam_log.txt
+  170  cd
+  171  history > exam_log.txt
+  172  cat exam_log.txt
+  173  cd 230548689-CALAYON
+  174  cd linux_practice
+  175  cd linux-practice
+  176  cd
+  177  cd 230548689-CALAYON
+  178  git checkout -b finalexam
+  179  history > exam_log.txt
+  180  git add exam_log.txt
+  181  git commit -m "Added exam_log.txtwith command history"
+  182  git push -u origin finalexam
+  183  git push origin finalexam
+  184  cat exam_log.txt
+  185  history > exam_log.txt
